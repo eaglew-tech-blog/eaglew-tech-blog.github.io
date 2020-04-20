@@ -25,7 +25,7 @@ My main focus area with good experience as the following,
 ### Document List
 
 - [Linux Kernel Debugging skills](docs/linux_kernel_debugging.md)
-- [PCIe](pcie.md)
+- [PCIe](docs/pcie.md)
 
 
 
